@@ -1,9 +1,9 @@
-{
+,{
     "private": true,
     "type": "module",
     "scripts": {
         "build": "vite build",
-        "dev": "vite"
+        "dev": "vite",
         "production": "vite build"
     },
     "devDependencies": {
